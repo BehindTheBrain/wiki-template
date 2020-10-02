@@ -1,0 +1,31 @@
+= subsubpage =
+Created Tuesday 26 May 2020
+
+[[../../index]]
+
+[[../level1a]]
+
+[[level2]]
+
+[[level2/level3a]]
+
+[[level2/level3a/level4a]]
+
+[[level2/level3a/level4b]]
+
+[[level2/level3b]]
+
+[[../level1b]]
+
+[[../level1b/level2]]
+
+{{local:../level1.png}}
+
+{{local:level2.png}}
+
+{{local:level2/level3.png}}
+
+[[local:level2/thingdeep.py]]
+
+[[local:../thing.py]]
+

@@ -1,0 +1,239 @@
+= index =
+Created Tuesday 26 May 2020
+
+* [ ] clean this page up with better names, images, make it the only thing in the test, then submit as image in github
+
+* [ ] Delete this page, since it's just for debugging and developing converting to vimwiki
+
+[[index/level1a]]
+
+[[index/level1a/level2]]
+
+[[index/level1a/level2/level3a]] and [[index/level1a/level2/level3a]]
+
+[[index/level1a/level2/level3a]] and [[index/level1a/level2/level3a]]
+
+[[index/level1a/level2/level3a/level4a]]
+
+[[index/level1a/level2/level3a/level4b]]
+
+[[index/level1b]]
+
+[[index/level1b/level2]]
+
+________________________________
+
+`j` and `i` needs to be locally greedy, and make sure it doesn't break the rest ! 
+
+*aoeu* and *aoeu*
+
+_aoeu_ and _aoeu_
+
+_aoeu_ and _aoeu_
+
+~~aoeu~~ and ~~aoeu~~
+
+*aoeu*
+
+ao,,eu,,hhHH and ao,,u,,hhHH
+
+a^ou^e and a^o^eoeu
+
+oeau
+
+_underline_ and _underline_
+
+`verbaitm`
+
+`verbaitm`
+
+more stuff
+
+{{{
+verbatim block
+    oaeu
+oaeu
+}}}
+
+In-page:
+
+{{local:index/level1.png}}
+
+with other | image thing
+
+{{local:index/level1.png}}
+
+double image thing
+
+{{local:index/level1.png}} and {{local:index/level1.png}}
+
+sized:
+
+{{local:index/level1.png}}
+
+sized and image thing
+
+{{local:index/level1.png}}
+
+sized and image and double
+
+{{local:index/level1.png}} and {{local:index/level1.png}}
+
+A double here:
+
+{{local:index/level1.png}} and {{local:index/level1.png}}
+
+double sized:
+
+{{local:index/level1.png}} and {{local:index/level1.png}}
+
+down:
+
+{{local:index/level1a/level2.png}}
+
+down more
+
+{{local:index/level1a/level2/level3.png}}
+
+here
+
+[[local:index/thing.py]]
+
+[[local:index/thing.py]] and [[local:index/thing.py]]
+
+down several
+
+[[local:index/level1a/level2/thingdeep.py]]
+
+[[local:index/level1a/level2/thingdeep.py]] and [[local:index/level1a/level2/thingdeep.py]]
+
+# pound sign outside of thing
+
+Codeblock
+
+{{{python
+print("hey")
+'''
+a python string that should not be deleted
+'''
+print('there')
+if 1:
+    print("one")
+
+# this should not get messed with
+[[1:3]]
+[[page/subpage:whatevershouldstaythesame]]
+}}}
+
+* oeu
+* eou
+* oeu
+* eu
+
+a. oeu
+b. eu
+c. e
+d. u
+
+A. tnsh
+B. ntsh
+C. hnts
+D. hnt
+
+= h1 =
+
+== h2 ==
+
+=== h3 ===
+
+==== h4 ====
+
+===== h5 =====
+
+h6 (does not exist)
+
+= h1a =
+
+== h2a ==
+
+=== h3a ===
+
+==== h4a ====
+
+===== h5a =====
+
+h6 (does not exist)
+
+| aoeu  | ueu | thnoqj|    | uteuh |
+|-------|-----|--------|-----|-------|
+| aoeun |   u | eu     |     |  eou  |
+| eu    |     |        | oeu |       |
+| ue    |     |        |     |       |
+|       |     |        |     |       |
+
+$ \omega + 1 $
+
+A double (does it show?)
+
+$ \omega + 1 $ and $ \beta / 4 $
+
+$ \alpha + 3 $ is somothenig
+
+A double (does it show?)
+
+is sometnh $ \beta / 4 $ is sometnh $ \omega + 1 $
+
+A double (does it show?)
+
+* $ 5 + 3 \omega $ is sometnh $ \alpha + 3 $
+
+* [ ] not done
+    * [ ] subnotdone
+        * [ ] subnotdone
+        * [X] subdonedone
+    * [X] subdonedone
+        * [ ] subnotdone
+        * [X] subdonedone
+* [X] done
+    * [ ] subnotdone
+        * [ ] subnotdone
+        * [X] subdonedone
+    * [X] subdonedone
+        * [ ] subnotdone
+        * [X] subdonedone
+* [D] canceled
+    * [ ] subnotdone
+        * [ ] subnotdone
+        * [X] subdonedone
+    * [X] subdonedone
+        * [ ] subnotdone
+        * [X] subdonedone
+* [ ] improtant !!! 
+* [ ] kind of important !! 
+* [ ] meh ! 
+* [ ] improtant !!! 
+* [ ] kind of important !! 
+* [ ] meh ! 
+* [ ] dated (2020-06-22)
+* [ ] dated 2 (2020-05-26)
+* [ ] dated and important !! (2020-06-26)
+* [ ] dated !! 2 (2020-06-26)
+* [ ] dated and important !! (2020-06-27)
+* [ ] dated !! 2 (2020-07-28)
+
+Horizontal line
+
+----
+
+A special character:
+
+Â
+
+{{{
+stuff tabbed in
+    stuff tabbed in
+stuff tabbed in
+}}}
+
+more stuff
+

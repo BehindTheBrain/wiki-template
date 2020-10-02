@@ -1,0 +1,35 @@
+= level3a =
+Created Tuesday 26 May 2020
+
+[[../../../index]]
+
+[[../../level1a]]
+
+[[../level2]]
+
+[[level3a]]
+
+[[level3a/level4a]]
+
+[[level3a/level4b]]
+
+[[level3b]]
+
+[[../../level1b]]
+
+[[../../level1b/level2]]
+
+{{local:../../level1.png}}
+
+{{local:level3.png}}
+
+{{local:../level2.png}}
+
+Attachment up a couple pages
+
+[[local:../../thing.py]]
+
+same up one
+
+[[local:thingdeep.py]]
+

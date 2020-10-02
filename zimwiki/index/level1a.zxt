@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-05-26T15:55:07-05:00
+
+====== subpage ======
+Created Tuesday 26 May 2020
+
+hey
+
+TODO: any page links up-only (and not down) in the hierarchy needs to turn into "./uppage"
+
+The fact that this does not work is clearly a bug...
+
+[[index]] (up)
+[[level1a]] (self)
+[[+level2]] down
+[[+level2:level3a]]
+[[+level2:level3a:level4a]]
+
+[[level1b]]
+[[level1b:level2]]
+
+[[../thing.py]] (up)
+{{../level1.png}} (up)
+
+[[./level2/thingdeep.py]] down
+{{./level2.png}} down
+

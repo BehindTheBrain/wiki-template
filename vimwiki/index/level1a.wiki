@@ -1,0 +1,31 @@
+= subpage =
+Created Tuesday 26 May 2020
+
+hey
+
+TODO: any page links up-only (and not down) in the hierarchy needs to turn into "./uppage"
+
+The fact that this does not work is clearly a bug...
+
+[[../index]] (up)
+
+[[level1a]] (self)
+
+[[level1a/level2]] down
+
+[[level1a/level2/level3a]]
+
+[[level1a/level2/level3a/level4a]]
+
+[[level1b]]
+
+[[level1b/level2]]
+
+[[local:thing.py]] (up)
+
+{{local:level1.png}} (up)
+
+[[local:level1a/level2/thingdeep.py]] down
+
+{{local:level1a/level2.png}} down
+

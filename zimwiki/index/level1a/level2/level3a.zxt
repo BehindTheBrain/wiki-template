@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-05-26T16:01:20-05:00
+
+====== level3a ======
+Created Tuesday 26 May 2020
+
+[[index]]
+[[level1a]]
+[[level2]]
+[[level3a]]
+[[+level4a]]
+[[+level4b]]
+[[level3b]]
+
+[[level1b]]
+[[level1b:level2]]
+
+{{../../../level1.png}}
+
+{{../level3.png}}
+
+{{../../level2.png}}
+
+Attachment up a couple pages
+[[../../../thing.py]]
+
+same up one
+[[../thingdeep.py]]

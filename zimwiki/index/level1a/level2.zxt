@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-05-26T15:55:20-05:00
+
+====== subsubpage ======
+Created Tuesday 26 May 2020
+
+[[index]]
+[[level1a]]
+[[level2]]
+[[+level3a]] 
+[[+level3a:level4a]]
+[[+level3a:level4b]]
+[[+level3b]]
+
+[[level1b]]
+[[level1b:level2]]
+
+{{../../level1.png}}
+{{../level2.png}}
+{{./level3.png}}
+
+
+[[./thingdeep.py]]
+[[../../thing.py]]
